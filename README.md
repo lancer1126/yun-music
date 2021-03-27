@@ -1,3 +1,6 @@
+**学习自YesPlayMusic**
+
+
 # yun-music
 
 ## Project setup
