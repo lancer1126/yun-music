@@ -9,7 +9,7 @@ module.exports = {
     port: process.env.DEV_SERVER_PORT || 8080,
     proxy: {
       "^/api": {
-        tareget: "http://localhost:3000",
+        target: "http://localhost:3000",
         changeOrigin: true,
         pathRewrite: {
           "^/api": "/",
